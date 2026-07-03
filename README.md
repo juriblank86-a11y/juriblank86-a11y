@@ -35,5 +35,3 @@ Ein interaktives Tool, das aus Web-Artikeln, PDFs oder YouTube-Videos vollautoma
 ### 📫 Kontakt & Vernetzung
 - **LinkedIn:** www.linkedin.com/in/juri-blank-a38682387
 - **E-Mail:** juri.blank@web.de
-
-*"Let data drive your decisions!"* 🚀
